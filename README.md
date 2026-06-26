@@ -83,8 +83,7 @@ Both CSV files share the same columns:
 ## Running the task
 
 From PsychoPy, open:
-APMOT_behavioral.py     # behavioral version
-APMOT_pup.py            # pupillometry version
+APMOT_behavioral.py for the behavioral version and APMOT_pup.py for the pupillometry version
 
 A start-up dialog will request the participant number, age, and gender. The experiment begins immediately after these are submitted.
 
