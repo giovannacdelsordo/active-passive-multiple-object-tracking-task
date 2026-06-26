@@ -95,3 +95,10 @@ A start-up dialog will request the participant number, age, and gender. The expe
 ## Task structure
 
 Each session contains two blocks (A-MOT and P-MOT) presented in counterbalanced order across participants. Each block consists of 40 trials (20 with 2 targets and 20 with 4 targets) preceded by 2 practice trials. The difficulty order is shuffled independently for each block. This parameters are easily modifiable. 
+
+## Citation
+
+If using this task, please cite the following publication: 
+
+Del Sordo, G.C., Papesh, M.H., Alonso Carillo, M., & Hout, M.C. (2026). Beyond vigilance: A dual-process perspective on visual sustained attention. Cognitive, Affective, & Behavioral Neuroscience. https://doi.org/10.3758/s13415-026-01458-6
+
